@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <div align='center'>
   <h2>Random joke</div>
+  </div>
   
+<div align='center'>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
