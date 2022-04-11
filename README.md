@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
 <div align='center'>
-Languages and Tools :
+   <h2>Languages and Tools</h2>
    </div>
    
    <div align='center'>
