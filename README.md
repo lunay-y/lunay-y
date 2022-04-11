@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div align='center'>
-## Random joke
+  <h2>Random joke</div>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
