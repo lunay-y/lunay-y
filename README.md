@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </div>
   
   <br/>
-<div grid-template-columns: 1fr 1fr>
+<div display='inline'>
 <span>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
