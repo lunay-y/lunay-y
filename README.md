@@ -54,6 +54,13 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=one-week-project-app)](https://github.com/lunay-y/one-week-project-app)
  
  </span>
+ <span>
+
+<img src="https://i.imgur.com/gT2IkK3.png" title="Nature inpsired Todo-list" alt="Todo-list" width="400" height="220"/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=todo-list)](https://github.com/lunay-y/todo-list)
+ 
+ </span>
  </div>
 
  <br/><br/>
