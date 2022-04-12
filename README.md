@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  <br/><br/>
 
 <div align='center'>
-  <h2>Recent work</div>
+  <h2>Recent Work</div>
   </div>
   <br/>
   
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  <br/><br/>
 
 <div align='center'>
-  <h2>Random joke</div>
+  <h2>Random Joke</div>
   </div>
    <br/>
 <div align='center'>
