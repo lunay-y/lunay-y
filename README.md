@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
+ <br/><br/> <br/>
+
 <div align='center'>
    <h2 color='red'>Languages and Tools</h2>
    </div>
+    <br/><br/>
    
    <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+ <br/><br/> <br/>
+
 <div align='center'>
   <h2>Recent work</div>
   </div>
@@ -40,10 +45,12 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
 
+ <br/><br/> <br/>
+
 <div align='center'>
   <h2>Random joke</div>
   </div>
-  
+   <br/><br/>
 <div align='center'>
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
