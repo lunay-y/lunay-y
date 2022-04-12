@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
+![Cat Chasing Gif](https://c.tenor.com/3HrcAdrKXigAAAAC/cute-kawaii.gif)
+
  <br/>
 
 <div align='center'>
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://simpleicons.org/icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/canva.svg" title="Canva" alt="Canva" width="40" height="40"/>
   <img src="https://simpleicons.org/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://simpleicons.org/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
  <br/><br/>
