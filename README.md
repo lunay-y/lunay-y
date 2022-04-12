@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 </div>
 
 <div align='center'>
+  <h2>Recent work</div>
+  </div>
+
+<img src="https://imgur.com/6C03uQc" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="300"/>
+</div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lunay-y/4-weeks-final-project-SoC)
+
+<div align='center'>
   <h2>Random joke</div>
   </div>
   
