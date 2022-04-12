@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
  
- <span>
  </span>
+ <span>
 
 <img src="https://i.imgur.com/621GEJS.jpg" title="Personal Page For Google Forms" alt="1 week project Schoo Of Code" width="400" height="220"/>
 
