@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   </div>
   
   <br/>
-
+<div grid-template-columns: 1fr 1fr>
 <span>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=one-week-project-app)](https://github.com/lunay-y/one-week-project-app)
  
  </span>
+ </div>
 
  <br/><br/>
 
