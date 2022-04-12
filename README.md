@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align='center' width="80" height="200">
  
-![Cat Chasing Gif](https://c.tenor.com/3HrcAdrKXigAAAAC/cute-kawaii.gif)
+![Cat Chasing Gif](https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif)
  
 </div>
  <br/>
