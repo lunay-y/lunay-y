@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
- <br/><br/>
+ <br/>
 
 <div align='center'>
    <h2 color='red'>Languages and Tools</h2>
@@ -41,9 +41,11 @@ Here are some ideas to get you started:
   <br/>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
 
 <img src="https://i.imgur.com/621GEJS.jpg" title="Personal Page For Google Forms" alt="1 week project Schoo Of Code" width="400" height="220"/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=one-week-project-app)](https://github.com/lunay-y/one-week-project-app)
 
  <br/><br/>
