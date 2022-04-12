@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
-<div align='center' width="80" height="200">
+<div align='center'>
  
 ![Cat Chasing Gif](https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif)
- 
+ <img src="https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif" title="Cats Gif" alt="Cats Gif" width="130" height="200" />
 </div>
 <div align='center'>
    <h2 color='red'>Languages and Tools</h2>
