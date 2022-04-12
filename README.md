@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
+<div align='center' width="80" height="200">
+ 
 ![Cat Chasing Gif](https://c.tenor.com/3HrcAdrKXigAAAAC/cute-kawaii.gif)
-
+ 
+</div>
  <br/>
 
 <div align='center'>
