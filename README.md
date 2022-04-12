@@ -40,20 +40,20 @@ Here are some ideas to get you started:
   
   <br/>
 
-<p display='inline'>
+<span>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
  
- </p>
- <p display='inline'>
+ <span>
+ </span>
 
 <img src="https://i.imgur.com/621GEJS.jpg" title="Personal Page For Google Forms" alt="1 week project Schoo Of Code" width="400" height="220"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=one-week-project-app)](https://github.com/lunay-y/one-week-project-app)
  
- </p>
+ </span>
 
  <br/><br/>
 
