@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 <div align='center'>
   <h2>Recent work</div>
   </div>
-  
   <br/>
-<div display='inline'>
+  
+<div align='center'>
 <span>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
