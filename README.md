@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   <h2>Recent work</div>
   </div>
 
-<img src="https://imgur.com/6C03uQc" title="ReLoved" alt="4 weeks project Schoo Of Code"/>
+<img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code"/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/lunay-y/4-weeks-final-project-SoC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
 
 <div align='center'>
   <h2>Random joke</div>
