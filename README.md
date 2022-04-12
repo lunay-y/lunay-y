@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   
   <br/>
 
-<p>
+<p display='inline'>
 
 <img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="400" height="220"/>
 
