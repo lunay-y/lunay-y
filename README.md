@@ -83,7 +83,7 @@ Here are some ideas to get you started:
  <br/><br/>
 
 <div align='center'>
-  <h2>Random Joke</div>
+  <h2>Random Snort Jokes Generator</div>
   </div>
    <br/>
 <div align='center'>
