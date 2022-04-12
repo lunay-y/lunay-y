@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <h2>Recent work</div>
   </div>
 
-<img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="370" height="180"/>
+<img src="https://i.imgur.com/6C03uQc.png" title="ReLoved" alt="4 weeks project Schoo Of Code" width="3850" height="200"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunay-y&repo=4-weeks-final-project-SoC)](https://github.com/lunay-y/4-weeks-final-project-SoC)
 
