@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 <br/>
 
 <div align='center'>
-  <h2>>>The End<<</div>
+  <h2>~The End~</div>
   </div>
    <br/>
 <div align='center'>
-<img src= 'https://media0.giphy.com/media/lTpme2Po0hkqI/giphy.gif?cid=ecf05e47dsr4xauozbx57pp65e3wv11do3ci2jwgfh81gt26&rid=giphy.gif&ct=g' title="That's all folks" alt="That's all folks">
+<img src= 'https://media0.giphy.com/media/lD76yTC5zxZPG/giphy.gif?cid=ecf05e47dsr4xauozbx57pp65e3wv11do3ci2jwgfh81gt26&rid=giphy.gif&ct=g' title="That's all folks" alt="That's all folks">
 </div>
