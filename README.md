@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    </div>
    
 <div align='center'>
-  <img src="https://simpleicons.org/icons/css3.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://simpleicons.org/icons/css3.svg"  title="CSS3" alt="CSS" width="40" height="40" filter= "invert(26%) sepia(89%) saturate(1583%) hue-rotate(95deg) brightness(96%) contrast(106%)";/>&nbsp;
   <img src="https://simpleicons.org/icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
