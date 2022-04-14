@@ -90,3 +90,7 @@ Here are some ideas to get you started:
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
+<br/>
+<div align='center'>
+<img src= 'https://media0.giphy.com/media/lTpme2Po0hkqI/giphy.gif?cid=ecf05e47dsr4xauozbx57pp65e3wv11do3ci2jwgfh81gt26&rid=giphy.gif&ct=g' title="That's all folks" alt="That's all folks">
+</div>
