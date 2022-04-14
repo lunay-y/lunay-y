@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    </div>
    
 <div align='center'>
-  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="55" height="55"/>&nbsp;
   <img src="https://simpleicons.org/icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
