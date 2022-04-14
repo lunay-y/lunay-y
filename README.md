@@ -23,10 +23,10 @@ Here are some ideas to get you started:
    </div>
    
 <div align='center'>
-  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="47" height="47"/>&nbsp;
-  <img src="https://simpleicons.org/icons/html5.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://imgur.com/SvPY8lz" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/x5dMyfn.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/wAdmSEc.png" title="React" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://simpleicons.org/icons/reactrouter.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/jest.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://simpleicons.org/icons/nodedotjs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
