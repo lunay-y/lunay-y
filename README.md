@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![banner, Hi there, I'm Luna](https://i.imgur.com/G2clWU5.png)
+![banner, Hi there, I'm Luna](https://i.imgur.com/dFXQXgd.png)
 
 <br/><br/>
 
