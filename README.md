@@ -34,12 +34,12 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/xpxI33h.png" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
   <img src="https://i.imgur.com/as4E6tb.png" title="Express" alt="Express" width="45" height="45"/>&nbsp;
   <img src="https://i.imgur.com/7aucmUS.png" title="Auth0" alt="Auth0" width="45" height="45"/>&nbsp;
-  <img src="https://simpleicons.org/icons/heroku.svg" title="Heroku" alt="Heroku" width="45" height="45"/>
-  <img src="https://simpleicons.org/icons/netlify.svg" title="Netlify" alt="Netlify" width="45" height="45"/>
-  <img src="https://simpleicons.org/icons/postman.svg" title="Postman" alt="Postman" width="45" height="45"/>
-  <img src="https://simpleicons.org/icons/canva.svg" title="Canva" alt="Canva" width="45" height="45"/>
-  <img src="https://simpleicons.org/icons/figma.svg" title="Figma" alt="Figma" width="45" height="45"/>
-  <img src="https://simpleicons.org/icons/git.svg" title="Git" **alt="Git" width="45" height="45"/>
+  <img src="https://i.imgur.com/tsB9fNd.png" title="Heroku" alt="Heroku" width="45" height="45"/>
+  <img src="https://i.imgur.com/gWVNGoO.png" title="Netlify" alt="Netlify" width="45" height="45"/>
+  <img src="https://i.imgur.com/COhrHfc.png" title="Postman" alt="Postman" width="45" height="45"/>
+  <img src="https://i.imgur.com/AZpaFf8.png" title="Canva" alt="Canva" width="45" height="45"/>
+  <img src="https://i.imgur.com/SggG47D.png" title="Figma" alt="Figma" width="45" height="45"/>
+  <img src="https://i.imgur.com/rpKWd6x.png" title="Git" **alt="Git" width="45" height="45"/>
 </div>
 
  <br/><br/>
