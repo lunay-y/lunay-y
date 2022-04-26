@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
+<br/><br/>
+
 <div align='center'>
    <h2 color='red'>Languages and Tools</h2>
    </div>
@@ -37,8 +39,6 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/SggG47D.png" title="Figma" alt="Figma" width="43" height="43"/>
   <img src="https://i.imgur.com/rpKWd6x.png" title="Git" **alt="Git" width="43" height="43"/>
 </div>
-
- <br/>
  
  <div align='center'>
  
