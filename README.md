@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 ![banner, Hi there, I'm Luna](https://i.imgur.com/zS2nYHq.png)
 
 <div align='center'>
- 
- <img src="https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif" title="Cats Gif" alt="Cats Gif" width="150" height="200" />
-</div>
-<div align='center'>
    <h2 color='red'>Languages and Tools</h2>
    </div>
    
@@ -42,7 +38,12 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/rpKWd6x.png" title="Git" **alt="Git" width="43" height="43"/>
 </div>
 
- <br/><br/>
+ <br/>
+ 
+ <div align='center'>
+ 
+ <img src="https://i.pinimg.com/originals/a8/8b/e9/a88be9f7deb90c3e1779b9fd414ea8db.gif" title="Cats Gif" alt="Cats Gif" width="150" height="200" />
+</div>
 
 <div align='center'>
   <h2>Recent Work</div>
