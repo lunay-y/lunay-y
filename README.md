@@ -29,17 +29,17 @@ Here are some ideas to get you started:
   <img src="https://i.imgur.com/wAdmSEc.png" title="React" alt="React" width="45" height="45"/>&nbsp;
   <img src="https://i.imgur.com/qV5VgiV.png" title="React Router" alt="React Router" width="45" height="45"/>&nbsp;
   <img src="https://i.imgur.com/S7bR6KY.png" title="Jest" alt="Jest" width="45" height="45"/>&nbsp;
-  <img src="https://simpleicons.org/icons/nodedotjs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/nodemon.svg" title="Nodemon" alt="Nodemon" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/postgresql.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/express.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/auth0.svg" title="Auth0" alt="Auth0" width="40" height="40"/>&nbsp;
-  <img src="https://simpleicons.org/icons/heroku.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/netlify.svg" title="Netlify" alt="Netlify" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/canva.svg" title="Canva" alt="Canva" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>
-  <img src="https://simpleicons.org/icons/git.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/9JM1Etw.png" title="Nodemon" alt="Nodemon" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/xpxI33h.png" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/as4E6tb.png" title="Express" alt="Express" width="45" height="45"/>&nbsp;
+  <img src="https://i.imgur.com/7aucmUS.png" title="Auth0" alt="Auth0" width="45" height="45"/>&nbsp;
+  <img src="https://simpleicons.org/icons/heroku.svg" title="Heroku" alt="Heroku" width="45" height="45"/>
+  <img src="https://simpleicons.org/icons/netlify.svg" title="Netlify" alt="Netlify" width="45" height="45"/>
+  <img src="https://simpleicons.org/icons/postman.svg" title="Postman" alt="Postman" width="45" height="45"/>
+  <img src="https://simpleicons.org/icons/canva.svg" title="Canva" alt="Canva" width="45" height="45"/>
+  <img src="https://simpleicons.org/icons/figma.svg" title="Figma" alt="Figma" width="45" height="45"/>
+  <img src="https://simpleicons.org/icons/git.svg" title="Git" **alt="Git" width="45" height="45"/>
 </div>
 
  <br/><br/>
