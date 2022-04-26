@@ -23,23 +23,23 @@ Here are some ideas to get you started:
    </div>
    
 <div align='center'>
-  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/C5jrqSH.png" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/x5dMyfn.png" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/wAdmSEc.png" title="React" alt="React" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/qV5VgiV.png" title="React Router" alt="React Router" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/S7bR6KY.png" title="Jest" alt="Jest" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/9JM1Etw.png" title="Nodemon" alt="Nodemon" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/xpxI33h.png" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/as4E6tb.png" title="Express" alt="Express" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/7aucmUS.png" title="Auth0" alt="Auth0" width="45" height="45"/>&nbsp;
-  <img src="https://i.imgur.com/tsB9fNd.png" title="Heroku" alt="Heroku" width="45" height="45"/>
-  <img src="https://i.imgur.com/gWVNGoO.png" title="Netlify" alt="Netlify" width="45" height="45"/>
-  <img src="https://i.imgur.com/COhrHfc.png" title="Postman" alt="Postman" width="45" height="45"/>
-  <img src="https://i.imgur.com/AZpaFf8.png" title="Canva" alt="Canva" width="45" height="45"/>
-  <img src="https://i.imgur.com/SggG47D.png" title="Figma" alt="Figma" width="45" height="45"/>
-  <img src="https://i.imgur.com/rpKWd6x.png" title="Git" **alt="Git" width="45" height="45"/>
+  <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/C5jrqSH.png" title="HTML5" alt="HTML" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/x5dMyfn.png" title="JavaScript" alt="JavaScript" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/wAdmSEc.png" title="React" alt="React" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/qV5VgiV.png" title="React Router" alt="React Router" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/S7bR6KY.png" title="Jest" alt="Jest" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/tPkTeWT.png" title="NodeJS" alt="NodeJS" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/9JM1Etw.png" title="Nodemon" alt="Nodemon" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/xpxI33h.png" title="PostgreSQL" alt="PostgreSQL" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/as4E6tb.png" title="Express" alt="Express" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/7aucmUS.png" title="Auth0" alt="Auth0" width="43" height="43"/>&nbsp;
+  <img src="https://i.imgur.com/tsB9fNd.png" title="Heroku" alt="Heroku" width="43" height="43"/>
+  <img src="https://i.imgur.com/gWVNGoO.png" title="Netlify" alt="Netlify" width="43" height="43"/>
+  <img src="https://i.imgur.com/COhrHfc.png" title="Postman" alt="Postman" width="43" height="43"/>
+  <img src="https://i.imgur.com/AZpaFf8.png" title="Canva" alt="Canva" width="43" height="43"/>
+  <img src="https://i.imgur.com/SggG47D.png" title="Figma" alt="Figma" width="43" height="43"/>
+  <img src="https://i.imgur.com/rpKWd6x.png" title="Git" **alt="Git" width="43" height="43"/>
 </div>
 
  <br/><br/>
