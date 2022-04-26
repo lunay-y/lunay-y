@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align='center'>
    <h2 color='red'>Languages and Tools</h2>
    </div>
-   
+   <br/>
 <div align='center'>
   <img src="https://i.imgur.com/DQJwXRN.png"  title="CSS3" alt="CSS" width="43" height="43"/>&nbsp;
   <img src="https://i.imgur.com/C5jrqSH.png" title="HTML5" alt="HTML" width="43" height="43"/>&nbsp;
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
  <br/><br/>
 
 <div align='center'>
-  <h2>Random Snort Jokes Generator</div>
+  <h2>Random Snort Joke Generator</div>
   </div>
    <br/>
 <div align='center'>
